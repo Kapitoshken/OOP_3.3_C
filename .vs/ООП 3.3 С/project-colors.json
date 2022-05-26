@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dda2d1ce-c5a1-46cf-a810-084b7ce71a4e": {
+      "ProjectGuid": "dda2d1ce-c5a1-46cf-a810-084b7ce71a4e",
+      "DisplayName": "ООП 3.3 С",
+      "ColorIndex": 0
+    },
+    "9436f962-d508-423e-9e11-8afc11f99268": {
+      "ProjectGuid": "9436f962-d508-423e-9e11-8afc11f99268",
+      "DisplayName": "UnitTest 3.3 C",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
